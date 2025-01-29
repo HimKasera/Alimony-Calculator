@@ -8,7 +8,8 @@ A legal calculator for estimating maintenance/alimony under various Indian perso
 
 **Live Demo:** [[https://alimony-calculator.example.com](https://alimony-calculator-xi.vercel.app/)]
 
-![App Interface](./screenshots/interface.png)
+![App Interface](https://github.com/HimKasera/Alimony-Calculator/blob/master/Home%20Page.jpg)
+
 
 ## 📋 Table of Contents
 - [Key Features](#-key-features)

@@ -55,12 +55,11 @@ A legal calculator for estimating maintenance/alimony under various Indian perso
 ## 🛠 Installation
 
 1. **Clone Repository**
-```bash
-git clone https://github.com/yourusername/alimony-calculator.git
-cd alimony-calculator
+ ```bash
+git clone https://github.com/HimKasera/Alimony-Calculator.git
+cd Alimony-Calculator
 ```
-
-2. **Install Dependencies**
+3. **Install Dependencies**
 ```bash
 npm install
 ```

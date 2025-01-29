@@ -6,7 +6,7 @@
 
 A legal calculator for estimating maintenance/alimony under various Indian personal laws, featuring real-time calculations and legal reference integration.
 
-**Live Demo:** [https://alimony-calculator.example.com](https://alimony-calculator.example.com)
+**Live Demo:** [[https://alimony-calculator.example.com](https://alimony-calculator-xi.vercel.app/)]
 
 ![App Interface](./screenshots/interface.png)
 

@@ -1,6 +1,3 @@
-Here's an updated README.md that combines your project details with essential Create React App documentation:
-
-```markdown
 # 🧮 Alimony Calculator India
 
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)
@@ -112,13 +109,6 @@ Builds the app for production to the `build` folder.
 ### `npm run eject`
 **Note: this is a one-way operation.** Removes single build dependency and copies configuration files into your project.
 
-## Learn More
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-- [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-- [Deployment](https://facebook.github.io/create-react-app/docs/deployment)
-- [Troubleshooting](https://facebook.github.io/create-react-app/docs/troubleshooting)
 
 ## 🤝 Contributing
 
@@ -133,21 +123,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Distributed under MIT License. See `LICENSE` for details.
 
 ---
-
-**Need Help?**  
-```
-
-Key changes made:
-1. Merged project-specific content with CRA docs
-2. Maintained legal disclaimers prominently
-3. Organized technical details first, followed by CRA documentation
-4. Kept essential CRA links for deployment and troubleshooting
-5. Added proper section anchors for navigation
-6. Maintained consistent formatting
-7. Added placeholder contact information (update with actual details)
-
-Remember to:
-1. Replace placeholder URLs with actual deployment links
-2. Add real contact information
-3. Include actual screenshots in `/screenshots` folder
-4. Update legal references as needed
